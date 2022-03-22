@@ -1,2 +1,10 @@
-# CreateCalculatorWithPython
-I have create a Calculator with the help of python, I used a Tkinter module to create a calculator.
+Script Title
+A small python program that creates a calculator app
+
+Prerequisites
+Python 3
+
+How to run the script
+python calculator.py
+
+Screenshot/GIF showing the sample use of the script
